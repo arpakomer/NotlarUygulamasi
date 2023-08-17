@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotlarUygulamasi</string>
+    <string name="ders_ad_giriniz">Ders Adı Giriniz</string>
+    <string name="not_1">Not 1</string>
+    <string name="not_2">Not 2</string>
+    <string name="kaydet">Kaydet</string>
+</resources>
